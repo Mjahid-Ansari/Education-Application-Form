@@ -1,0 +1,38 @@
+body {
+margin:0;
+padding:0;
+border-color:green;
+color:#fff;
+font-family:'charm', bold ;
+text-align:;:center ;
+font-size:15px;
+background-attachment:fixed ;
+
+background-repeat:no-repeat ; 
+background-size :100vw 100vh;
+width:99%; 
+height:65%;
+background-image: url("https://guardian.ng/wp-content/uploads/2020/09/education-640x375.jpg");
+color:red ;
+}
+.btn:hover{
+
+    background-color:blue;
+    color:goldenrod;
+}
+.btn{
+    text-align:center;
+    
+    
+}
+
+            .box{
+                
+                
+                border:2px  solid purple;
+                
+                
+            }
+            h3{
+                text-align:center;
+            }
